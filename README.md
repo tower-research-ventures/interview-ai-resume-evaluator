@@ -1,6 +1,6 @@
 # Resume Evaluator — Code Review Exercise
 
-A single-file TypeScript script that scores candidate resumes against a job description using the OpenAI API. **The code is intentionally flawed** — we want to hear what you'd change.
+A single-file TypeScript script that scores candidate resumes against a job description using the OpenAI API.
 
 ## Instructions
 
